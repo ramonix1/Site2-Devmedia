@@ -1,0 +1,30 @@
+div {
+    background-color:blue;
+    padding:15px;
+    border-radius:15px;
+    box-shadow:10px 10px;
+    text-align:center;
+}
+img {
+    width: 400px;
+    padding: 10px;
+    border-radius:50%;
+    
+}
+h1,h2 {
+    font-size: 100px;
+    font-weight:10000 ;
+    font-style:bold;
+    background-color:darkblue;
+    padding: 20px;
+    border-radius:20px;
+    box-shadow:10px 10px;
+    font-family:helvetica;
+}
+p {
+    font:arial;
+    font-weight: bold;
+    font-stretch: expanded;
+    line-height:20px;
+    font-size:50px;
+} 
